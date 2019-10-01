@@ -1,0 +1,5 @@
+.table .thead-green th {
+    color: #fff;
+    background-color: green;
+    border-color: wheat;
+  }
